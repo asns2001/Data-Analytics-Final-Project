@@ -15,4 +15,7 @@ This report is a limited exploration of US political speeches, it properly outli
 
 
 
+
 This exploration used KNIME and Microsoft Excel to format and develop models. 
+
+The ZIP folder includes the entire KNIME workflow to achieve the models and conclusions.
